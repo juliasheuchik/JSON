@@ -1,1 +1,7 @@
-
+{
+  "name": "The button cannot be clicked on the screen Profile",
+  "version": 1.0.1,
+  "steps": "1.On the screen Main click button Admin 2. On the screen Profile click button Log out ",
+  "actual result": "after pressing the button the screen Onboarding does not open",
+  "expected result": "after pressing the button the screen Onboarding open",
+  }
