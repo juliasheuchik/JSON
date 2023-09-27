@@ -1,9 +1,5 @@
 JSON
  1. Создать внешний репозиторий c названием JSON.
- ```
- Зайти на github, нажать на new и указать название JSON
- ```
- ___
  2. Клонировать репозиторий JSON на локальный компьютер.
  ```
  git clone git@github.com:juliasheuchik/JSON.git
@@ -57,29 +53,12 @@ JSON
   ___
  12. Отправить сразу 2 файла на внешний репозиторий.
 ```
- git add .
- git commit -m "Add information in new files"
+ git commit -am "Add information in new files"
 ```
 13. На веб интерфейсе создать файл bug_report.json.
-```
-Нажать add file, выбрать create new file
-```
-___
 14. Сделать Commit changes (сохранить) изменения на веб интерфейсе.
-```
- Нажать на Commit changes
-```
-___
  15. На веб интерфейсе модифицировать файл bug_report.json, добавить баг репорт в формате JSON.
-```
- Нажать на файл bug_report.json и в поле Edit написать баг репорт в формате JSON
-```
-  ___
  16. Сделать Commit changes (сохранить) изменения на веб интерфейсе.
-```
- Нажать на Commit changes
-```
-___
  17. Синхронизировать внешний и локальный репозиторий JSON
 ```
  git pull
