@@ -54,6 +54,7 @@ JSON
  12. Отправить сразу 2 файла на внешний репозиторий.
 ```
  git commit -am "Add information in new files"
+ git push origin
 ```
 13. На веб интерфейсе создать файл bug_report.json.
 14. Сделать Commit changes (сохранить) изменения на веб интерфейсе.
