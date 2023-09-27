@@ -17,7 +17,7 @@ JSON
   ___
  5. Закоммитить файл.
 ```
- git commit -m "Create new file"
+ git commit -m "Creat a new file"
 ```
   ___
  6. Отправить файл на внешний GitHub репозиторий.
@@ -32,7 +32,7 @@ JSON
   ___
  8. Отправить изменения на внешний репозиторий.
 ```
- git commit -am "Add infotmation about me"
+ git commit -am "Added infotmation about me"
  git push
 ```
   ___
@@ -53,7 +53,7 @@ JSON
   ___
  12. Отправить сразу 2 файла на внешний репозиторий.
 ```
- git commit -am "Add information in new files"
+ git commit -am "Added information to file"
  git push origin
 ```
 13. На веб интерфейсе создать файл bug_report.json.
